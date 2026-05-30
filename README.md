@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Email-amlan4391%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/amlan-git">
-    <img src="https://img.shields.io/badge/GitHub-amlan4391-black?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-amlangit-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://amlan.live">
     <img src="https://img.shields.io/badge/Portfolio-amlan.live-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
