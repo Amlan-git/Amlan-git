@@ -1,28 +1,76 @@
-<h1 align="center">Hi 👋, I'm Amlan</h1>
-<h3 align="center">Full stack developer </h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amlan-git&label=Profile%20views&color=0e75b6&style=flat" alt="amlan-git" /> </p>
-
-- 👯 I’m looking to collaborate on **AI Projects**
-
-- 📝 I regularly write articles on [DEV.to/amlandev10](DEV.to/amlandev10)
-
-- 📫 How to reach me **amlan4391@gmail.com**
-
-- ⚡ Fun fact **I love music & I sing (sometimes)!**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/amlandev10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="amlandev10" height="30" width="40" /></a>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Amlan%20Bora%20&textBg=false&animation=fadeIn&desc=building%20systems%20across%20full-stack,%20AI,%20indie-SaaS&descAlign=52&descAlignY=54&fontSize=60&fontAlignY=38&descSize=26&reversal=false"
+    alt="Amlan Bora — building systems across full-stack, AI, indie-SaaS"
+  />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi, I'm Amlan Bora 👋</h1>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amlan-git&" alt="amlan-git" /></p>
+<p align="center">
+  <b>Full-Stack Developer • Next.js / MERN Stack • AI • Indie Hacker</b>
+</p>
 
-<!---
-Amlan-git/Amlan-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  I build production-ready web apps, AI-powered products, realtime collaboration tools, and SaaS-style products with clean architecture and polished UX.
+</p>
+
+<p align="center">
+  <a href="mailto:amlan4391@gmail.com">
+    <img src="https://img.shields.io/badge/Email-amlan4391%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/amlan-git">
+    <img src="https://img.shields.io/badge/GitHub-amlan4391-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://amlan.live">
+    <img src="https://img.shields.io/badge/Portfolio-amlan.live-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## About Me
+
+I'm a full-stack developer focused on building practical, scalable, and visually polished software products.
+
+My work sits at the intersection of full-stack engineering, AI-powered applications, SaaS products, and developer & utility-focused tools.
+
+---
+
+## Current Focus
+
+- Building **production-ready full-stack systems** 
+- Working deeply with **Next.js, React, TypeScript, Node.js, Express, PostgreSQL, MongoDB, Supabase, and cloud deployment workflows**
+- Developing AI-powered applications involving **LLMs, RAG, AI search, agents, and automation**
+- Creating SaaS products with emphasis on utility & efficiency for daily tech users
+---
+
+## Stack
+
+```txt
+Languages      JavaScript, TypeScript, Python, Java, SQL
+Frontend       React, Next.js, Tailwind CSS, Framer Motion, Figma
+Backend        Node.js, Express.js, REST APIs, Auth, Middleware, WebSockets
+Databases      PostgreSQL, MongoDB, Supabase, Prisma, Data Modeling
+AI Engineering LLM Applications, RAG Pipelines, AI Agents, AI Search
+Gen AI         Prompt Engineering, Embeddings, Tool Calling, AI Automation
+Realtime       Yjs, Hocuspocus, CRDTs, Presence, Collaborative Systems
+Infra/DevOps   Git, GitHub, Vercel, Render, Docker, CI/CD
+```
+
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amlan-git&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=amlan-git&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amlan-git&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+
