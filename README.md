@@ -52,7 +52,7 @@ Languages      JavaScript, TypeScript, Python, Java, SQL
 Frontend       React, Next.js, Tailwind CSS, Framer Motion, Figma
 Backend        Node.js, Express.js, REST APIs, Auth, Middleware, WebSockets
 Databases      PostgreSQL, MongoDB, Supabase, Prisma, Data Modeling
-AI Engineering LLM Applications, RAG Pipelines, AI Agents, AI Search
+AI Engineering LLM Applications, RAG Pipelines, AI Agents, AI Search, MCP servers
 Gen AI         Prompt Engineering, Embeddings, Tool Calling, AI Automation
 Realtime       Yjs, Hocuspocus, CRDTs, Presence, Collaborative Systems
 Infra/DevOps   Git, GitHub, Vercel, Render, Docker, CI/CD
