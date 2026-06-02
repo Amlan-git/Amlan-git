@@ -41,7 +41,7 @@ My work sits at the intersection of full-stack engineering, AI-powered applicati
 
 - Building **production-ready full-stack systems** 
 - Working deeply with **Next.js, React, TypeScript, Node.js, Express, PostgreSQL, MongoDB, Supabase, and cloud deployment workflows**
-- Developing AI-powered applications involving **LLMs, RAG, AI search, agents, and automation**
+- Developing AI-powered applications involving **LLMs, RAG, vector DBs, n8n, agents, and automation**
 - Creating SaaS products with emphasis on utility & efficiency for daily tech users
 ---
 
@@ -53,11 +53,37 @@ Frontend       React, Next.js, Tailwind CSS, Framer Motion, Figma
 Backend        Node.js, Express.js, REST APIs, Auth, Middleware, WebSockets
 Databases      PostgreSQL, MongoDB, Supabase, Prisma, Data Modeling
 AI Engineering LLM Applications, RAG Pipelines, AI Agents, AI Search, MCP servers
-Gen AI         Prompt Engineering, Embeddings, Tool Calling, AI Automation
+Gen AI         Prompt Engineering, Context Engineering, Embeddings, Vector DBs,Tool Calling, AI Automation
 Realtime       Yjs, Hocuspocus, CRDTs, Presence, Collaborative Systems
 Infra/DevOps   Git, GitHub, Vercel, Render, Docker, CI/CD
 ```
+## Featured Projects
 
+[Drawly](https://github.com/yourusername/drawly)
+Collaborative whiteboard app with real-time multi-user canvas sync, anonymous drawing, and cloud-saved diagrams.
+
+- room-based real-time collaboration with anonymous and authenticated modes
+- secure hybrid persistence with Supabase Auth, PostgreSQL RLS, and Google OAuth
+- real-time canvas sync via Yjs, Hocuspocus, and WebSockets with export to PNG/SVG
+
+[Quest AI](https://github.com/yourusername/quest-ai)
+Perplexity-style conversational search engine with streamed LLM answers and real-time web retrieval.
+
+- streamed answers with inline citations, source cards, and follow-up question generation
+- Bun/Express backend with SSE streaming, Tavily search, rate limiting, and Gemini-based generation
+- React/TypeScript frontend with persistent conversation history and Perplexity-inspired UX
+
+
+## Open Source 
+
+[Waggle-mcp](https://github.com/Abhigyan-Shekhar/Waggle-mcp) — co-maintainer
+
+Persistent, graph-based memory layer for MCP-compatible AI agents — published on PyPI.
+
+- knowledge graph backend replacing chunk-based RAG for structured recall across sessions
+- MCP tool surface for storing nodes, edges, decisions, and contradictions with full provenance
+- 81.6% R@5 on LongMemEval held-out split; 91 automated tests passing; Docker + Kubernetes deploy configs included
+- compatible with Claude Code, Cursor, Codex, and any MCP-capable client
 
 ## GitHub Stats
 
