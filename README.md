@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Amlan%20Bora%20&textBg=false&animation=fadeIn&desc=building%20systems%20across%20full-stack,%20AI,%20indie-SaaS&descAlign=52&descAlignY=54&fontSize=60&fontAlignY=38&descSize=26&reversal=false"
+    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Amlan%20Bora%20&textBg=false&animation=fadeIn&desc=building%20systems%20across%20full-stack,%20AI&descAlign=52&descAlignY=54&fontSize=60&fontAlignY=38&descSize=26&reversal=false"
     alt="Amlan Bora — building systems across full-stack, AI, indie-SaaS"
   />
 </p>
