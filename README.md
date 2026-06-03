@@ -8,7 +8,7 @@
 <h1 align="center">Hi, I'm Amlan Bora 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Developer • Next.js / MERN Stack • AI • Indie Hacker</b>
+  <b>Full-Stack Developer • Next.js / MERN Stack • AI • Indie Dev </b>
 </p>
 
 <p align="center">
